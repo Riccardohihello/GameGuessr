@@ -8,7 +8,6 @@ class Connection:
         self.port = 8080
         self.address = (self.server, self.port)
         self.playerNum = self.connect()
-        print("player num: ", self.playerNum)
 
     def connect(self):
         try:
