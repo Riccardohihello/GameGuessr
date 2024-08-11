@@ -3,58 +3,88 @@
    b) Dragon Age: Inquisition
    c) Dark Souls III
    d) Bloodborne
-   Risposta corretta: a
-2. Qual è il titolo del gioco del 2016 sviluppato da Blizzard Entertainment, che è uno sparatutto in prima persona?
+   risposta:a
+2. Qual è il titolo del gioco del 2016, sviluppato da Blizzard Entertainment, che è uno sparatutto in prima persona?
    a) Overwatch
    b) Apex Legends
    c) Rainbow Six Siege
    d) Fortnite
-   Risposta corretta: a
+   risposta:a
 3. In quale gioco del 2013, sviluppato da Naughty Dog, seguiamo la storia di Joel e Ellie in un mondo post-apocalittico?
    a) Days Gone
    b) The Last of Us
    c) Detroit: Become Human
    d) Horizon Zero Dawn
-   Risposta corretta: b
+   risposta:b
 4. Quale gioco del 2017, sviluppato da Guerrilla Games, è ambientato in un mondo aperto post-apocalittico dominato da creature meccaniche?
    a) Nioh
    b) Monster Hunter: World
    c) The Witcher 3: Wild Hunt
    d) Horizon Zero Dawn
-   Risposta corretta: d
-5. Qual è il titolo del gioco del 2018 sviluppato da Santa Monica Studio, che segue le avventure di Kratos e suo figlio Atreus?
+   risposta:d
+5. Qual è il titolo del gioco del 2018, sviluppato da Santa Monica Studio, che segue le avventure di Kratos e suo figlio Atreus?
    a) God of War
    b) Assassin's Creed Odyssey
    c) Red Dead Redemption 2
    d) Spider-Man
-   Risposta corretta: a
+   risposta:a
 6. Quale gioco del 2016, sviluppato da DICE, è ambientato durante la prima guerra mondiale?
    a) Medal of Honor: Above and Beyond
    b) Call of Duty: WW2
    c) Battlefield 1
    d) Titanfall 2
-   Risposta corretta: c
+   risposta:c
 7. Quale titolo del 2014, sviluppato da FromSoftware, ha guadagnato la sua reputazione per la difficoltà estrema e l'atmosfera cupa?
    a) Sekiro: Shadows Die Twice
    b) Dark Souls II
    c) Bloodborne
    d) Dark Souls III
-   Risposta corretta: c
+   risposta:c
 8. In quale gioco del 2015, sviluppato da Psyonix, i giocatori controllano auto da corsa per segnare gol in una sorta di "calcio con le macchine"?
    a) Rocket League
    b) Forza Horizon 4
    c) Need for Speed: Heat
    d) Driveclub
-   Risposta corretta: a
-9. Qual è il titolo del gioco del 2017 sviluppato da MachineGames, reboot della serie di sparatutto in prima persona incentrata sulla lotta contro i nazisti?
+   risposta:a
+9. Qual è il titolo del gioco del 2017, sviluppato da Bethesda Softworks, reboot della serie di sparatutto in prima persona incentrata sulla lotta contro i demoni?
    a) Prey
    b) Doom Eternal
    c) Metro Exodus
    d) Wolfenstein II: The New Colossus
-   Risposta corretta: d
-10. In quale gioco del 2018, sviluppato da Rockstar Games, assumi il ruolo di Arthur Morgan in un vasto mondo aperto ambientato nel vecchio West?
+   risposta:d
+10. In quale gioco del 2018, sviluppato da Rockstar Games, assumi il ruolo di un cowboy in un vasto mondo aperto ambientato nel vecchio West?
     a) Red Dead Redemption 2
     b) Grand Theft Auto V
     c) Red Dead Redemption
     d) The Elder Scrolls V: Skyrim
-    Risposta corretta: a
+    risposta:a
+11. In quale roguelike del 2018, sviluppato da Supergiant Games, combatti attraverso il purgatorio greco come Zagreus, figlio di Ade?
+    a) Bastion
+    b) Transistor
+    c) Pyre
+    d) Hades
+    risposta:d
+12. Qual è il titolo del gioco del 2019, sviluppato da Hello Games, che ti permette di esplorare un'intera galassia generata proceduralmente?
+    a) No Man's Sky
+    b) Subnautica
+    c) The Outer Worlds
+    d) Elite Dangerous
+    risposta:a
+13. In quale gioco del 2016, sviluppato da Klei Entertainment, controlli una tribù primitiva che deve sopravvivere in un ambiente ostile raccogliendo risorse?
+    a) The Forest
+    b) Don't Starve
+    c) ARK: Survival Evolved
+    d) Rust
+    risposta:b
+14. Quale gioco del 2015, sviluppato da Toby Fox, è un RPG con un sistema di combattimento unico basato sui proiettili e sulla risoluzione di puzzle musicali?
+    a) Deltarune
+    b) Night in the Woods
+    c) Gris
+    d) Undertale
+    risposta:d
+15. Qual è il titolo del gioco del 2017, sviluppato da Motion Twin, un roguelike Metroidvania in cui esplori un castello infestato da nemici?
+    a) Hollow Knight
+    b) Salt and Sanctuary
+    c) Dead Cells
+    d) Blasphemous
+    risposta:c
