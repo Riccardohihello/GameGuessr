@@ -4,9 +4,9 @@ import pygame
 class InputManager:
     def __init__(self, font):
         self.font, self.userText, self.inputComplete = font, "", False
-        self.maxLength = 12
+        self.maxLength = 8
 
-    def handleEvent(self, event):
+    def handleEvent(self, event): # gestione degli input da tastiera
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_BACKSPACE:
                 self.userText = self.userText[:-1]
@@ -15,7 +15,7 @@ class InputManager:
             elif len(self.userText) < self.maxLength and not self.inputComplete:
                 self.userText += event.unicode
 
-    def draw(self, window, inputRect):
+    def draw(self, window, inputRect): # riquadro per l'input
         pygame.draw.rect(window, "white", inputRect)
         textLevel = self.font.render(self.userText, True, 0)
         window.blit(textLevel, (inputRect.x + 5, inputRect.y + 5))
