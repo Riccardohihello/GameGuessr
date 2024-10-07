@@ -3,7 +3,7 @@ import socket
 import threading
 
 
-class Client:
+class Client: # contenitore per gli attributi connessione(socket) e indirizzo
     def __init__(self, conn, addr):
         self.conn = conn
         self.addr = addr
@@ -27,7 +27,7 @@ class QuizServer:
         self.server_socket.listen(4)
         print("In attesa di una connessione")
 
-        while len(self.clients) < 4:
+        while len(self.clients) < 4: #accetta fino a 4 giocatori
             connection, addr = self.server_socket.accept()
             client = Client(connection, addr)
             self.clients.append(client)
@@ -38,7 +38,8 @@ class QuizServer:
         self.clients.remove(presenter)
 
         for client in self.clients:
-            client.conn.send(f"CONNECT:{presenter.addr[0]}:{presenter.addr[1]}".encode())
+            client.conn.send(f"CONNECT:{presenter.addr[0]}:{presenter.addr[1]}".encode()) #invio dei dati per iniziare
+                                                                                        #la connessione col presenter
 
         self.server_socket.close()
 
