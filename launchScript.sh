@@ -9,7 +9,7 @@ do
    python3 Client.py &
 done
 
-read -p "premere invio nel terminale per tgerminare i client"
+read -p "premere invio nel terminale per terminare i client"
 
 pkill -f Server.py Client.py
 

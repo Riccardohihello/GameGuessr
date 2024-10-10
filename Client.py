@@ -2,7 +2,6 @@ import os
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
 from Connection import Connection
-import Scrollbar
 from InputManager import InputManager
 import Scrollbar
 
@@ -86,6 +85,9 @@ class Client:
             domande_scrollbar.draw(window)
             if self.connection.current_question is None:
                 send_button.draw(window)
+
+            stats_text = font.render(self.connection.get_statistics(), True, (0, 0, 0))
+            window.blit(stats_text, (width // 2 - stats_text.get_width() // 2, 20))
 
             pygame.display.update()
             pygame.event.pump()

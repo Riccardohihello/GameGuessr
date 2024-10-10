@@ -11,7 +11,7 @@ class Peer:
         self.points += 10
 
     def get_stats(self):
-        return f"{self.nickname}: {self.points} punti"
+        return f"{self.nickname}: {self.points}"
 
 
 class Connection:
@@ -110,7 +110,7 @@ class Connection:
                     self.correct_answer = False
                 elif data.startswith("domanda"):
                     self.current_question = data.strip("domanda")
-                elif data.startswith("punteggi:"):
+                elif data.startswith("Punteggi"):
                     self.points_stats = data.strip("punteggi:")
             except Exception as e:
                 print(f"Errore gestione della connessione al presenter: {e}")
@@ -170,4 +170,4 @@ class Connection:
             stats_list.append(peer.get_stats())
 
         stats = "   ".join(stats_list)
-        return f"punteggi:{self.nickname}: p  {stats}"
+        return f"Punteggi: {self.nickname}: P  {stats}"
