@@ -9,7 +9,7 @@ class Client: # contenitore per gli attributi connessione(socket) e indirizzo
         self.addr = addr
 
 
-class QuizServer:
+class Server:
     def __init__(self, addr, port):
         self.server = addr
         self.port = port
@@ -45,7 +45,7 @@ class QuizServer:
 
 
 def main():
-    server = QuizServer("127.0.0.1", 8081)
+    server = Server("127.0.0.1", 8081)
     server.start()
 
 
